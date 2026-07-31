@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Shiran, a B.Sc. Information Systems student at the University of Haifa with a strong interest in Java development, system analysis and software design.
+Hi, I’m Shiran, a B.Sc. Information Systems student with a strong interest in Java development, system analysis and software design.
 I enjoy both planning how a system should work and turning that plan into code. I’m especially drawn to requirements analysis, structure and organization, while also enjoying the coding process itself.
 I also enjoy the creative side of development, especially organizing ideas, planning interfaces and making projects clear and easy to use.
 
