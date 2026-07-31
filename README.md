@@ -1,6 +1,7 @@
 # 💫 About Me:
-Hi, I’m Shiran, a B.Sc. Information Systems student at the University of Haifa with a strong interest in Java development, information systems and web technologies. <br>I enjoy building practical projects, learning new tools and turning ideas into working applications. <br>I have experience with Java, OOP, Java Swing, HTML, CSS, databases, as well as a background in teaching programming and explaining technical concepts clearly.
-
+Hi, I’m Shiran, a B.Sc. Information Systems student at the University of Haifa with a strong interest in Java development, system analysis and software design.
+I enjoy both planning how a system should work and turning that plan into code. I’m especially drawn to requirements analysis, structure and organization, while also enjoying the coding process itself.
+I also enjoy the creative side of development, especially organizing ideas, planning interfaces and making projects clear and easy to use.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shiran-kidron-6607673b9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shiranik13@gmail.com) 
