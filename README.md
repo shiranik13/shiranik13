@@ -4,8 +4,6 @@ Hi! I'm Shiran, a B.Sc. Information Systems student at the University of Haifa, 
 
 I enjoy taking ideas from concept to implementation, from understanding requirements and designing the structure to writing code and creating intuitive user experiences.
 
-Currently, I'm expanding my skills in **Python, Java, Django, and PostgreSQL**, while gaining hands-on experience through personal projects.
-
 I love learning new technologies, solving problems, and challenging myself to build things that people can actually use.
 
 ## 🚀 Featured Project
